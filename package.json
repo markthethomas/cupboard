@@ -49,6 +49,7 @@
     "node": true,
     "trailing": true,
     "undef": true,
-    "white": true
+    "white": true,
+    "evil": true
   }
 }
